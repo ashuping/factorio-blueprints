@@ -12,6 +12,6 @@ These abbreviations are used to remove ambiguity.
 | Syntax             | Meaning                                                 |
 |--------------------|---------------------------------------------------------|
 | ITEM               | Belt containing ITEM                                    |
-| {Item A | Item B}  | Belt containing Item A on the left and Item B on the right, in the direction of travel. Inputs cannot be switched. |
-| {Item A || Item B} | Belt containing Item A and Item B. Either side of the belt is fine for either item. |
+| {Item A \| Item B}  | Belt containing Item A on the left and Item B on the right, in the direction of travel. Inputs cannot be switched. |
+| {Item A \|\| Item B} | Belt containing Item A and Item B. Either side of the belt is fine for either item. |
 | Nothing            | Belt (or belt side) is empty.                           |
